@@ -11,3 +11,5 @@ I'm from Maharashtra India B tech CSE student from UGSOT. Making my first repo a
 - LMS : one line about it
 - CMS : one line about it
 
+## Contact
+- Email: waghom2005@gmail.com
