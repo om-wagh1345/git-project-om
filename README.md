@@ -11,3 +11,6 @@ I'm from Maharashtra India B tech CSE student from UGSOT. Making my first repo a
 - LMS : one line about it
 - CMS : one line about it
 
+## Social Links
+- GitHub:https://GitHub.com/om-wagh
+1345 
