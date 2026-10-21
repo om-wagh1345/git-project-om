@@ -7,5 +7,7 @@ I'm from Maharashtra India B tech CSE student from UGSOT. Making my first repo a
 - Problem solving
 - Basic Git
 
-
+## Projects
+- LMS : one line about it
+- CMS : one line about it
 
